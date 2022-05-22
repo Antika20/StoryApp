@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="nama">Nama</string>
+    <string name="create">Buatlah Akun !</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Daftar</string>
+    <string name="register2">Sudah Punya Akun ? Yuk Login !</string>
+    <string name="login">Masuk</string>
+    <string name="tanyaLogin">Belum Punya Akun ? Yuk Daftar !</string>
+    <string name="Search">cari</string>
+    <string name="menu1">Ubah Bahasa</string>
+    <string name="menu2">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="languange">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="write_the_description">deskripsi</string>
+    <string name="post">Unggah</string>
+    <string name="permission_not_granted">Ijin Tidak Diberikan</string>
+    <string name="choose_picture" >Pilih Gambar dari Galeri</string>
+    <string name="caption">Deskripsi</string>
+    <string name="write_your_caption">Tulis Deskripsimu Disini</string>
+
+
+</resources>
