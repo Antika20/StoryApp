@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="nama">Name</string>
+    <string name="create">Create An Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">register</string>
+    <string name="register2">Already have an account ? lets Login</string>
+    <string name="login">Login</string>
+    <string name="tanyaLogin">dont have an account ? lets register</string>
+    <string name="Search">search</string>
+    <string name="menu1">change language</string>
+    <string name="menu2">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="languange">Languange</string>
+    <string name="logout">Logout</string>
+    <string name="write_the_description">description</string>
+    <string name="post">post</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="choose_picture">Choose Picture At Gallery</string>
+
+    <string name="caption">CAPTION</string>
+    <string name="write_your_caption">Write your Caption Here</string>
+
+
+</resources>
